@@ -1,5 +1,7 @@
 [core]
     analytics = false
-    remote = myremote
+    remote = gdrive
 ['remote "myremote"']
     url = C:\Users\ronal\AppData\Local\Temp\dvcstore
+['remote "gdrive"']
+    url = gdrive://1sIIY-WEh7hDB7ThrPSuNwJ8quXYkx9-n
